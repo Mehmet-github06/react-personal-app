@@ -1,10 +1,10 @@
-import React from 'react'
+import "../sass/header.scss";
 
 const Header = () => {
   return (
-    <div>
-      header
-    </div>
+    <header>
+      <h1>Personal</h1>
+    </header>
   )
 }
 

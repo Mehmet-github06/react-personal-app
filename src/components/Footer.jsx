@@ -1,10 +1,10 @@
-import React from 'react'
+import footherstyle from "../sass/foother.module.scss";
 
 const Footer = () => {
   return (
-    <div>
-      foother
-    </div>
+    <footer className={footherstyle["footer"]}>
+     <p className={footherstyle.text}>Happy Coding  😎 { new Date().getFullYear()}</p>
+    </footer>
   )
 }
 
