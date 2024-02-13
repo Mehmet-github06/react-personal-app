@@ -7,7 +7,7 @@ Project aims to create a Personal List App.
 
 ## Problem Statement
 
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
+- We are adding a new personal to our portfolios. So you and your colleagues have started to work on the project.
 
 ## Project Skeleton
 
@@ -73,7 +73,7 @@ Build a Personal List App using ReactJS.
 
 
 ## Demo
-[Live](https://react-pproduct-list.netlify.app/)
+[Live](https://react-personal-six.vercel.app/)
 
 ## Notes
 
